@@ -1,5 +1,4 @@
-﻿using LNAT.businesslogic.Managers;
-using LNAT.businesslogic.Models;
+﻿
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -10,11 +9,7 @@ namespace WebApiCode.Controllers
     [ApiController]
     public class Pacientescontroller : ControllerBase
     {
-        private readonly PacientesManagers _managerPatients;
-        public Pacientescontroller(PacientesManagers pacientemanager)
-        {
-            _managerPatients = pacientemanager;
-        }
+        
         // GET: api/<Pacientescontroller>
         [HttpGet]
         public IEnumerable<string> Get()
@@ -31,15 +26,14 @@ namespace WebApiCode.Controllers
         [HttpGet("{nombre}/{apellido}/{ci}")]
         public string Get(string nombre, string apellido, string ci)
         {
-            
+            //como al hacer el get, ya se tiene controlado en formato string desde la api2, aqui no hay que controlar nada y seria inecesario
             return $"{nombre[0]}{apellido[0]}{ci}";
         }
         // POST api/<Pacientescontroller>
         [HttpPost]
-        public void Post([FromBody] pacientes value)
+        public void Post([FromBody] string value)
         {
-            Console.WriteLine("llegamos");
-            _managerPatients.CrearCodepacientes(value);
+          
         }
 
         // PUT api/<Pacientescontroller>/5

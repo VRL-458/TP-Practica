@@ -9,8 +9,6 @@ C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\
 C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\WebApiCode\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\WebApiCode\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\WebApiCode\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\WebApiCode\bin\Debug\net8.0\businesslogic.dll
-C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\WebApiCode\bin\Debug\net8.0\businesslogic.pdb
 C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\WebApiCode\obj\Debug\net8.0\WebApiCode.csproj.AssemblyReference.cache
 C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\WebApiCode\obj\Debug\net8.0\WebApiCode.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\WebApiCode\obj\Debug\net8.0\WebApiCode.AssemblyInfoInputs.cache
