@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCode", "WebApiCode\WebApiCode.csproj", "{2577CF3A-454D-497E-BCFD-5B806438F514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "businesslogic", "businesslogic\businesslogic.csproj", "{D3A6CFA6-0401-4298-8B55-3E379F61507F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2577CF3A-454D-497E-BCFD-5B806438F514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2577CF3A-454D-497E-BCFD-5B806438F514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2577CF3A-454D-497E-BCFD-5B806438F514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2577CF3A-454D-497E-BCFD-5B806438F514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A6CFA6-0401-4298-8B55-3E379F61507F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A6CFA6-0401-4298-8B55-3E379F61507F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A6CFA6-0401-4298-8B55-3E379F61507F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A6CFA6-0401-4298-8B55-3E379F61507F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F9627B-B1BB-47B5-9E13-B9AFE461CF3B}
+	EndGlobalSection
+EndGlobal

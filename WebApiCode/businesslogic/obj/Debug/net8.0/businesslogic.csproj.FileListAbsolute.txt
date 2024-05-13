@@ -1,0 +1,11 @@
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\businesslogic\bin\Debug\net8.0\businesslogic.deps.json
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\businesslogic\bin\Debug\net8.0\businesslogic.dll
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\businesslogic\bin\Debug\net8.0\businesslogic.pdb
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\businesslogic\obj\Debug\net8.0\businesslogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\businesslogic\obj\Debug\net8.0\businesslogic.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\businesslogic\obj\Debug\net8.0\businesslogic.AssemblyInfo.cs
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\businesslogic\obj\Debug\net8.0\businesslogic.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\businesslogic\obj\Debug\net8.0\businesslogic.dll
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\businesslogic\obj\Debug\net8.0\refint\businesslogic.dll
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\businesslogic\obj\Debug\net8.0\businesslogic.pdb
+C:\Users\leona\Documents\ISC-2022\QUINTO SEMESTRE\Certificaion I\PTercerParcial\WebApiCode\businesslogic\obj\Debug\net8.0\ref\businesslogic.dll
